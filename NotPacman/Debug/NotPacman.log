@@ -1,4 +1,6 @@
 ﻿  Main.cpp
-c:\users\krystian\documents\visual studio 2017\projects\notpacman\notpacman\main.cpp(62): warning C4244: 'initializing': conversion from 'std::streamoff' to 'unsigned int', possible loss of data
-c:\users\krystian\documents\visual studio 2017\projects\notpacman\notpacman\main.cpp(92): warning C4326: return type of 'main' should be 'int' instead of 'void'
+c:\users\krystian\documents\visual studio 2017\projects\notpacman\notpacman\main.cpp(63): warning C4244: 'initializing': conversion from 'std::streamoff' to 'unsigned int', possible loss of data
+c:\users\krystian\documents\visual studio 2017\projects\notpacman\notpacman\main.cpp(121): warning C4326: return type of 'main' should be 'int' instead of 'void'
+c:\users\krystian\documents\visual studio 2017\projects\notpacman\notpacman\main.cpp(238): warning C4244: 'initializing': conversion from 'unsigned __int64' to 'unsigned long', possible loss of data
+c:\users\krystian\documents\visual studio 2017\projects\notpacman\notpacman\main.cpp(270): warning C4018: '<': signed/unsigned mismatch
   NotPacman.vcxproj -> C:\Users\Krystian\Documents\Visual Studio 2017\Projects\NotPacman\Debug\NotPacman.exe
