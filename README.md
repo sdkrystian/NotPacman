@@ -1,5 +1,5 @@
 # NotPacman
-Like pacman, but definitely not.
+A package manager like pacman, but definitely not.
 
 # Use
 Set download directory with cd \<path>   
