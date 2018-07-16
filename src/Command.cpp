@@ -1,3 +1,5 @@
+// Copyright 2018 Krystian Stasiowski
+
 #include <string>
 #include <vector>
 #include "Command.h"

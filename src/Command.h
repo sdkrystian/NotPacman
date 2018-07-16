@@ -1,3 +1,5 @@
+// Copyright 2018 Krystian Stasiowski
+
 #pragma once
 #include <string>
 #include <functional>

@@ -1,3 +1,5 @@
+// Copyright 2018 Krystian Stasiowski
+
 #pragma once
 #include <windows.h>
 #include <string>
